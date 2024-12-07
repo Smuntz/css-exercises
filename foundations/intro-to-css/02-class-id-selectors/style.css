@@ -3,7 +3,7 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.third {
+.fsize {
     font-size: 24px;
 }
 
@@ -14,7 +14,6 @@
 
 #four {
     background-color: #6be36b;
-    font-size: 24px;
     font-weight: bold;
 }
 
